@@ -1,0 +1,13 @@
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\z_joao\Developer\DesignPatterns-GoF\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
