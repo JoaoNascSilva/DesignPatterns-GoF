@@ -1,0 +1,13 @@
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.csprojAssemblyReference.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+C:\z_joao\Developer\DesignPatterns-GoF\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache
